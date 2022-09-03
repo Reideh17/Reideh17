@@ -30,6 +30,14 @@ Y algunas más..
 
 
 ##
+<div>  
+  <a href="https://github.com/reideh17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reideh17&layout=compact&langs_count=7&theme=algolia"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reideh17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reideh17&repo=reservi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
