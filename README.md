@@ -29,6 +29,12 @@ Y algunas más..
  [<img src="https://media-exp1.licdn.com/dms/image/C5603AQHAmC8AVFvZoQ/profile-displayphoto-shrink_800_800/0/1588039807179?e=2147483647&v=beta&t=IHLkdikbtIoZPuhzxkpbCvpvreIQ1HWTBMweRV1c1CM" width=115><br><sub>  Linkedin </sub>](https://co.linkedin.com/in/hedier-alvarez-ovalle) 
 
 
+##
+<div>
+  <a href="https://github.com/camilafernanda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reideh17&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reideh17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **Reideh17/Reideh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
