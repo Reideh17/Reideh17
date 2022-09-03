@@ -24,6 +24,9 @@ Trabajé unos años en el Área de tecnología del Hospital departamental de Vil
 </br>
 Y algunas más..
 
+## Puedes encontrarme en :
+
+ [<img src="https://media-exp1.licdn.com/dms/image/C5603AQHAmC8AVFvZoQ/profile-displayphoto-shrink_800_800/0/1588039807179?e=2147483647&v=beta&t=IHLkdikbtIoZPuhzxkpbCvpvreIQ1HWTBMweRV1c1CM" width=115><br><sub>  Linkedin </sub>](https://co.linkedin.com/in/hedier-alvarez-ovalle) 
 
 
 
@@ -40,6 +43,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+ejemplod de fotos 
 
 https://shields.io/
 https://simpleicons.org/
