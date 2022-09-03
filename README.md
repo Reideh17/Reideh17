@@ -22,20 +22,23 @@ Trabajé unos años en el Área de tecnología del Hospital departamental de Vil
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 </br>
-Y algunas más..
-
-## Puedes encontrarme en :
-
- [<img src="https://media-exp1.licdn.com/dms/image/C5603AQHAmC8AVFvZoQ/profile-displayphoto-shrink_800_800/0/1588039807179?e=2147483647&v=beta&t=IHLkdikbtIoZPuhzxkpbCvpvreIQ1HWTBMweRV1c1CM" width=115><br><sub>  Linkedin </sub>](https://co.linkedin.com/in/hedier-alvarez-ovalle) 
-
-
 ##
-<div>  
+<br>
+<div align="center"> 
   <a href="https://github.com/reideh17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reideh17&layout=compact&langs_count=8&theme=algolia"/>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reideh17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+
+## Contacame :
+
+<div align="center">
+  <a href = "mailto:hedier.alvarez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://co.linkedin.com/in/hedier-alvarez-ovalle" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 
 <!--
 **Reideh17/Reideh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,6 +53,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Puedes encontrarme en :
+
+ [<img src="https://media-exp1.licdn.com/dms/image/C5603AQHAmC8AVFvZoQ/profile-displayphoto-shrink_800_800/0/1588039807179?e=2147483647&v=beta&t=IHLkdikbtIoZPuhzxkpbCvpvreIQ1HWTBMweRV1c1CM" width=115><br><sub>  Linkedin </sub>](https://co.linkedin.com/in/hedier-alvarez-ovalle) 
+
 
 
 ejemplod de fotos 
