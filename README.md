@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Puedes encontrarme en :
+aqui van 2 numerales Puedes encontrarme en :
 
  [<img src="https://media-exp1.licdn.com/dms/image/C5603AQHAmC8AVFvZoQ/profile-displayphoto-shrink_800_800/0/1588039807179?e=2147483647&v=beta&t=IHLkdikbtIoZPuhzxkpbCvpvreIQ1HWTBMweRV1c1CM" width=115><br><sub>  Linkedin </sub>](https://co.linkedin.com/in/hedier-alvarez-ovalle) 
 
