@@ -32,7 +32,7 @@ Trabajé unos años en el Área de tecnología del Hospital departamental de Vil
 </div>
 
 ## 📜 Certificaciones
-[![Insignia](https://www.credly.com/badges/85425e25-32e5-4b72-9a79-801008a9190b/public_url)](https://www.credly.com/badges/85425e25-32e5-4b72-9a79-801008a9190b/public_url)
+[![Insignia](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/85425e25-32e5-4b72-9a79-801008a9190b/public_url)
 
 
 
