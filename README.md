@@ -36,12 +36,7 @@ Trabajé unos años en el Área de tecnología del Hospital departamental de Vil
 
 
 
-## Contacame :
 
-<div align="center">
-  <a href = "mailto:hedier.alvarez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://co.linkedin.com/in/hedier-alvarez-ovalle" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 
 <!--
@@ -62,7 +57,12 @@ aqui van 2 numerales Puedes encontrarme en :
 
  [<img src="https://media-exp1.licdn.com/dms/image/C5603AQHAmC8AVFvZoQ/profile-displayphoto-shrink_800_800/0/1588039807179?e=2147483647&v=beta&t=IHLkdikbtIoZPuhzxkpbCvpvreIQ1HWTBMweRV1c1CM" width=115><br><sub>  Linkedin </sub>](https://co.linkedin.com/in/hedier-alvarez-ovalle) 
 
+## Contacame :
 
+<div align="center">
+  <a href = "mailto:hedier.alvarez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://co.linkedin.com/in/hedier-alvarez-ovalle" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ejemplod de fotos 
 
