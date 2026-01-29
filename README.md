@@ -74,7 +74,7 @@ Mi objetivo profesional es **automatizar procesos**, reducir cargas operativas y
 
 <div align="center">
 
-<a href="mailto:hedier.alvarez@gmail.com">
+<a href="mailto:asistente.hedier@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://co.linkedin.com/in/hedier-alvarez-ovalle" target="_blank">
